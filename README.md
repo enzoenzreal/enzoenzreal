@@ -4,7 +4,7 @@
 
 I have a videogame Youtube Channel
 
-!(https://enzoenzreal.github.io/evaluacion-m2-portafolio/assets/img/juegos-con-enz.png)
+![](https://enzoenzreal.github.io/evaluacion-m2-portafolio/assets/img/juegos-con-enz.png)
 
 
 
